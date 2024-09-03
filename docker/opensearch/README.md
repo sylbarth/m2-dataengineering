@@ -1,4 +1,4 @@
-# Environnement OpenSearh
+# Environnement OpenSearch
 
 # Installation
 On se place dans le répertoire courant, puis on exécute:
