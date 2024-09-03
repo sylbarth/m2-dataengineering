@@ -19,11 +19,11 @@ On se connecte sur [http://localhost:8080](http://localhost:8080) pour administe
 
 # Interface Grafana (dashboards)
 On se connecte sur [http://localhost:3000](http://localhost:3000) (user: admin, pass: admin)
-
+Attention, dans Grafana, la
 
 # Grafana: démos et exemples
 - [https://grafana.com/grafana/dashboards/](https://grafana.com/grafana/dashboards/)
 - [https://grafana.com/blog/2023/12/27/grafana-dashboards-in-2023-memorable-use-cases-of-the-year](https://grafana.com/blog/2023/12/27/grafana-dashboards-in-2023-memorable-use-cases-of-the-year/)
 - [https://play.grafana.org/d/bdnahipisghdsa/getting-started-with-grafana-play](https://play.grafana.org/d/bdnahipisghdsa/getting-started-with-grafana-play)
 - [https://grafana.com/grafana/dashboards/19870-demo-dashboard/](https://grafana.com/grafana/dashboards/19870-demo-dashboard/)
-
+- [https://www.timescale.com/blog/grafana-webinar-1-recap/](https://www.timescale.com/blog/grafana-webinar-1-recap/)
