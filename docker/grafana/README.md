@@ -22,4 +22,4 @@ On se connecte sur [http://localhost:3000](http://localhost:3000) (user: admin, 
 
 
 # Grafana: démos et exemples
-[https://grafana.com/blog/2023/12/27/grafana-dashboards-in-2023-memorable-use-cases-of-the-year/]
+[https://grafana.com/blog/2023/12/27/grafana-dashboards-in-2023-memorable-use-cases-of-the-year](https://grafana.com/blog/2023/12/27/grafana-dashboards-in-2023-memorable-use-cases-of-the-year/)
