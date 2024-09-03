@@ -19,7 +19,9 @@ On se connecte sur [http://localhost:8080](http://localhost:8080) pour administe
 
 # Interface Grafana (dashboards)
 On se connecte sur [http://localhost:3000](http://localhost:3000) (user: admin, pass: admin)
-Attention, dans Grafana, la
+
+# Configuration
+Dans Grafana, il faut ajouter une connection MySQL. Le host doit être `db` et la database name `projet`.
 
 # Grafana: démos et exemples
 - [https://grafana.com/grafana/dashboards/](https://grafana.com/grafana/dashboards/)
