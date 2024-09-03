@@ -2,7 +2,7 @@ import pandas as pd
 import sqlalchemy
 from sqlalchemy.sql import text
 
-DB = "mysql://root:master2@localhost/projet"
+DB = "mysql+pymysql://root:master2@localhost/projet"
 
 engine = sqlalchemy.create_engine(DB)
 
