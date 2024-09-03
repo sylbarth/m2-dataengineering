@@ -22,4 +22,8 @@ On se connecte sur [http://localhost:3000](http://localhost:3000) (user: admin, 
 
 
 # Grafana: démos et exemples
+[https://grafana.com/grafana/dashboards/](https://grafana.com/grafana/dashboards/)
 [https://grafana.com/blog/2023/12/27/grafana-dashboards-in-2023-memorable-use-cases-of-the-year](https://grafana.com/blog/2023/12/27/grafana-dashboards-in-2023-memorable-use-cases-of-the-year/)
+[https://play.grafana.org/d/bdnahipisghdsa/getting-started-with-grafana-play](https://play.grafana.org/d/bdnahipisghdsa/getting-started-with-grafana-play)
+[https://grafana.com/grafana/dashboards/19870-demo-dashboard/](https://grafana.com/grafana/dashboards/19870-demo-dashboard/)
+
