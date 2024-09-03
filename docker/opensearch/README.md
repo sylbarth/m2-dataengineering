@@ -16,3 +16,7 @@ On se connecte à la base de données sur localhost (port 9200)
 
 # Interface graphique (Kibana)
 On se connecte sur [http://localhost:5601](http://localhost:5601) (user: admin, pass: lskXHLK@2465)
+
+# Demo, Exemples
+
+[https://grafana.com/blog/2023/12/27/grafana-dashboards-in-2023-memorable-use-cases-of-the-year/]
